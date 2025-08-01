@@ -1,3 +1,25 @@
+# 🍹 Pulp - Beverage Recipe Web App
+
+**Pulp** is a modern, minimalist web application that allows users to:
+- Explore trending drinks recipes 🍸  
+- Generate new recipes with creative twists ✨  
+- Create and save custom drink recipes 🧪  
+- Sign up and log in to personalize their experience 🔐
+
+---
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- HTML
+- CSS 
+
+### Backend
+- PHP 
+- MySQL
+
+---
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
